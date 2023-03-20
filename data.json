@@ -1,0 +1,22 @@
+[
+  {
+    "text":"program",
+    "category":"softwore"
+  },
+  {
+    "text":"power supply",
+    "category":"hardware"
+  },
+  {
+    "text":"memory",
+    "category":"hardware"
+  },
+  {
+    "text":"code",
+    "category":"softwore"
+  },
+  {
+    "text":"bugs",
+    "category":"softwore"
+  }
+]
